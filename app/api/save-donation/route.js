@@ -1,4 +1,4 @@
-export const runtime = 'edge';
+export const runtime = "nodejs";
 
 import { sendEmailDonation } from '../../lib/sendemail';
 import { db } from '../../lib/db';
