@@ -1,3 +1,4 @@
+export const runtime = 'edge';
 
 import { sendEmailDonation } from '../../lib/sendemail';
 import { db } from '../../lib/db';
