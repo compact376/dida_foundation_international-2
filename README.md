@@ -34,3 +34,41 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+# DIDA Foundation International
+
+A full-stack web platform for Advancing Islamic knowledge and values through research and youth programs.
+
+## 🌐 Features
+
+- Contact and donation form handling
+- Nodemailer integration for email notifications
+- Frontend built with Next.js
+- API routes for donation and contact form processing
+- Secure environment variable handling
+- MySQL (or other backend DB) integration (assumed)
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Next.js 13+
+- **Backend:** Node.js (API routes inside `api/`)
+- **Email:** Nodemailer
+- **Styling:** Tailwind CSS (assumed or add your framework)
+- **Database:** MySQL (or your specific DB)
+- **Deployment:** Vercel or custom server
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js v18+
+- npm or yarn
+- MySQL Database
+
+### Installation
+
+```bash
+git clone https://github.com/compact376/dida_foundation_international.git
+cd dida_foundation_international
+npm install

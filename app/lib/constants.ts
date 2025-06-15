@@ -25,16 +25,10 @@ export const menuItems = [
         label: "Donate",
         path: "/donate",
     },
-    // {
-    //     label: "Blog",
-    //     path: "/blog",
-    // },
+
     {
         label: "Contact",
         path: "/contact",
     },
-    // {
-    //     label: "Dashboard",
-    //     path: "/dashboard",
-    // },
+
 ] as const;
