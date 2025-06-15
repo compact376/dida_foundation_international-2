@@ -72,3 +72,8 @@ A full-stack web platform for Advancing Islamic knowledge and values through res
 git clone https://github.com/compact376/dida_foundation_international.git
 cd dida_foundation_international
 npm install
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 3ea79082c32bd0bbb486716881b603c369140855
